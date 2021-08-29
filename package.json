@@ -1,0 +1,25 @@
+{
+  "name": "assignment9",
+  "version": "1.0.0",
+  "description": "Creating a README file using NOde concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/japjeet1975/assignment9.git"
+  },
+  "keywords": [
+    "Assignment9"
+  ],
+  "author": "Japjeet Kaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/japjeet1975/assignment9/issues"
+  },
+  "homepage": "https://github.com/japjeet1975/assignment9#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
